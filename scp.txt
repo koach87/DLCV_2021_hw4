@@ -1,0 +1,3 @@
+python p1.py hw4_data/mini/val.csv hw4_data/mini/val hw4_data/mini/val_testcase.csv out.csv
+bash hw4_p1.sh hw4_data/mini/val.csv hw4_data/mini/val hw4_data/mini/val_testcase.csv out.csv
+bash hw4_p2.sh hw4_data/office/val.csv hw4_data/office/val out2.csv
